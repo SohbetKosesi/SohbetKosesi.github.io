@@ -4,7 +4,7 @@ title:  "İntiharın İzdüşümü"
 date:   2023-02-23 19:47:21 +0300
 categories: jekyll update
 ---
-> Son zamanlarda Nilgün Marmara ve Kurt Cobain’in intihar mektuplarını tekrar okuyunca intiharın tek bir olgu olmadığı gerçeğiyle karşılaştım. Öncelikle genelde temel intihar nedeni olarak tükenmişlik, anlam eksikliği, yorgunluk, geçmeyen boşluk hissiyatı, var olmama isteği gibi şeyler karşımıza çıkıyor fakat bu kategorizasyon Nilgün ve Cobain örnekleriyle pek örtüşmüyor, ayrıca Camus’nün felsefi intihar konseptini de düşündüğümüzde pek yeterli bir açıklama olmadığı gözüküyor.#
+> Son zamanlarda Nilgün Marmara ve Kurt Cobain’in intihar mektuplarını tekrar okuyunca intiharın tek bir olgu olmadığı gerçeğiyle karşılaştım. Öncelikle genelde temel intihar nedeni olarak tükenmişlik, anlam eksikliği, yorgunluk, geçmeyen boşluk hissiyatı, var olmama isteği gibi şeyler karşımıza çıkıyor fakat bu kategorizasyon Nilgün ve Cobain örnekleriyle pek örtüşmüyor, ayrıca Camus’nün felsefi intihar konseptini de düşündüğümüzde pek yeterli bir açıklama olmadığı gözüküyor.
 
 > Bu noktada temel soru şu: intihar eden bir insan hangi amaçla not bırakır veya bir vasiyette bulunmak ister. Yukarıda saydığımız özelliklere sahip birisinin, kendi varlığını yok etmeye çalışırken aynı zamanda daha söyleyecek şeyleri olması ve bir şeyler söylemek istemesi ne kadar örtüşür istekler? Her şeyin anlamsız olduğunu düşünen veya artık dayanılmaz bir acı çeken insanların geleceği düşünen davranışlarda bulunması pek mâkul karşılanabilecek bir olgu değil. Bu noktada önce bu olguyu açıkladıktan sonra intiharın aslında iki farklı türünün olduğu gerçeğiyle sözü bitireceğim.
 
