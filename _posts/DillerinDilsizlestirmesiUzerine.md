@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dillerin Dilsizleştirmesi Üzerine"
-date:   2024-04-12 01:45:21 +200
+date:   2024-04-12 01:45:21 +0100
 categories: jekyll update
 ---
 > Fikir aklıma önceden gelmiş olsa đa tekrar üzerine yazma isteği bir alıntıyla aklıma yerleşti. Almanca alıntıyı, kendi çevirmenlik yetilerime güvenmediğim için direkt yazıyorum, Türkçesine bakmak isteyenler, "insanca Pek Insanca", 267. Aforizmaya bakabilir. 
